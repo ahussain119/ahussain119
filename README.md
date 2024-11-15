@@ -4,8 +4,8 @@
 [GitHub: ahussain119](https://github.com/ahussain119)
 
 ## WHO AM I?
-###Cloud & DevOps Engineer with 4 Years of Experience
-As a dedicated DevOps professional, I am passionate about working with diverse technologies across cloud platforms, operating systems, Infrastructure as Code (IaC), and CI/CD pipelines. My experience spans virtual environments, cloud deployments, automation, and networking protocols, where I continuously explore ways to optimize and streamline processes for efficient system management.
+### Cloud & DevOps Engineer with 4 Years of Experience
+GCP & AWS | Terraform & Ansible | Docker & Kubernetes | Monitoring and logging
 
 ## Key Skills
 - Cloud Platforms (GCP and AWS): Proficient in deploying, managing, and monitoring cloud infrastructure with a focus on high availability, scalability, and performance optimization.
